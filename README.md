@@ -77,5 +77,5 @@ document.querySelector("#myName").innerHTML += myName;
 ## Lisans
 
 [Lisans Secimi](https://choosealicense.com/)
-
+$~$
 ![](https://i.im.ge/2022/09/23/15rwwx.Goruntu-000049.png)
